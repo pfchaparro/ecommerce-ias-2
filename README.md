@@ -1,2 +1,2 @@
-# ecommerce-ias
+# E Commerce IAS
 Mini E-Commerce
